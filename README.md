@@ -1,0 +1,2 @@
+# GuessingGameWithVoiceRecognitionPython
+Requirements
